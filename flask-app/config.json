@@ -1,0 +1,13 @@
+{
+    "params": {
+        "local_server": "True",
+        "local_uri": "mysql+pymysql://root:@localhost/pratiksah",
+        "fb_uri": "https://www.facebook.com/coolpratiksah",
+        "tw_uri": "https://www.twitter.com/the_pratik_sah",
+        "gh_uri": "https://www.github.com/ThePratikSah",
+        "blog_name": "Pratik Sah",
+        "tagline": "Where coding is fun",
+        "about": "Hi, my name is Pratik Sah and I'm a final year student pursuing my B.Tech from Vidya Vihar Institute of Technology. You can connect me from the links given below.",
+        "no_of_posts": 5
+    }
+}
